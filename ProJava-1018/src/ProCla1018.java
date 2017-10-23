@@ -8,6 +8,7 @@ public class ProCla1018 {
 //Thread t2= new Thread(myThread2); //2
  	t1.start();
  	t2.start();
+ 	System.out.println("bk test");
   	}
  }
 
